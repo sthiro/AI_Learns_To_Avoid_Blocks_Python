@@ -15,8 +15,8 @@ The Goal for the AI is to Avoid falling objects from sky
 
 <h3> How Does AI Plays </h3>
 
-The Observation Space is --> <b> MultiDescrete([500,500,500,500]) </b>
-<p>AI can identify objects in <b>4 Columns</b> (4 dimension array) of max values <b>500</b></p>
+The Observation Space is --> <b> MultiDescrete([600,600,600,600]) </b>
+<p>AI can identify objects in <b>4 Columns</b> (4 dimension array) of max values <b>600</b> (600 height prixels)</p>
 
 The Action Space --> <b> Decrete(4) </b>
 <p> Player / AI can move 4 different Columns </p>
