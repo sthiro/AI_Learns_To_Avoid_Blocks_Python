@@ -11,6 +11,7 @@ The Goal for the AI is to Avoid falling objects from sky
 <ul>
   <li>Open AI</li>
   <li>Stable Baseline3</li>
+  <li>PyTorch/li>
   <li>PyGame</li>
   <li>Open AI Gym</li>
 </ul>  
