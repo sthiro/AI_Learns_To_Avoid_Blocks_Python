@@ -35,6 +35,6 @@ Here I use <b> PyGame </b> Package to Render Custom Environmnet
 <p> <b> You can use pretrained model if you dont wont to train again <b> </p>
 
 
-<h3 Requirments specs</h3>
+<h3> Requirments specs</h3>
 <p> Having Dedicated GPU recomeneded </p>
 <p> or it uses cpu without problem </p>
