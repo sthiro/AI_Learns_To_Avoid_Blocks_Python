@@ -1,6 +1,6 @@
 # Python ReInforcement Learning (AI) | AI Tries to Avoid Falling Blocks 
-github.png
-![What is this](github.png)
+
+!(github.png)
  <h3> Goal for the AI </h3>
  
 The Goal for the AI is to Avoid falling objects from sky
