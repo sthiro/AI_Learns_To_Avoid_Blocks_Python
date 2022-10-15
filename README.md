@@ -21,11 +21,20 @@ The Observation Space is --> <b> MultiDescrete([500,500,500,500]) </b>
 The Action Space --> <b> Decrete(4) </b>
 <p> Player / AI can move 4 different Columns </p>
 
+<h3> About Obstackle </h3>
+
+<p> Obstackle falls (Red Sqaure) in 4 columns with different size and random speed </p>
+
 <h3> How Does The Environment Render </h3>
 
 Here I use <b> PyGame </b> Package to Render Custom Environmnet 
 
 <h3> How good is Trained Model here</h3>
 
-<p> Trained model is ok ! but you can get way better by <b> UnCommenting Train code lines for x number of time  </b> in  to get better Result </p>
+<p> Trained model is good ! but you can get way better by <b> UnCommenting Train code lines for x number of time  </b>  to get better Result </p>
 <p> <b> You can use pretrained model if you dont wont to train again <b> </p>
+
+
+<h3 Requirments specs</h3>
+<p> Having Dedicated GPU recomeneded </p>
+<p> or it uses cpu without problem </p>
