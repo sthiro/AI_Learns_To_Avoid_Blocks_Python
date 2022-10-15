@@ -37,4 +37,4 @@ Here I use <b> PyGame </b> Package to Render Custom Environmnet
 
 <h3> Requirments specs</h3>
 <p> Having Dedicated GPU recomeneded </p>
-<p> or it uses cpu without problem </p>
+<p> or it uses CPU without problem </p>
