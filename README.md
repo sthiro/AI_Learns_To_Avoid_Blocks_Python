@@ -1,4 +1,4 @@
-# Python ReInforcement Learning (AI) | AI Tries to Avoid Falling Blocks 
+# Python Re-Inforcement Learning (AI) | AI Tries to Avoid Falling Blocks 
 
 ![](github.png)
  <h3> Goal for the AI </h3>
