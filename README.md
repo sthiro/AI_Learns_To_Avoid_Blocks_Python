@@ -32,7 +32,7 @@ The Action Space --> <b> Decrete(4) </b>
 Here I use <b> PyGame </b> Package to Render Custom Environmnet 
 
 <h3> How good is Trained Model here</h3>
-
+<p> (Train model is inside Saved Model Folder </p>
 <p> Trained model is good ! but you can get way better by <b> UnCommenting Train code lines for x number of time  </b>  to get better Result </p>
 <p> <b> You can use pretrained model if you dont wont to train again <b> </p>
 
